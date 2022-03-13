@@ -1,6 +1,5 @@
 package com.credentials.main;
 
-import java.util.Random;
 import java.util.Scanner;
 
 import com.credentials.model.Employee;
